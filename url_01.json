@@ -8,24 +8,20 @@
         "url":"https://jx.618g.com/?url="
     },
     {
-        "name":"B站1",
-        "url":"https://vip.parwix.com:4433/player/?url="
-    },
-    {
-        "name":"B站2",
+        "name":"B站解析",
         "url":"https://www.cuan.la/m3u8.php?url="
     },
     {
-        "name":"BJT",
-        "url":"https://ckmov.bjtjr.net/ckmov/?url="
+        "name":"Ckplayer",
+        "url":"https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+        "name":"Parwix",
+        "url":"https://vip.parwix.com:4433/player/?url="
     },
     {
         "name":"BL",
         "url":"https://vip.bljiex.com/?v="
-    },
-    {
-        "name":"CK",
-        "url":"https://www.ckplayer.vip/jiexi/?url="
     },
     {
         "name":"大侠",
@@ -122,10 +118,6 @@
     {
         "name":"MUTV",
         "url":"https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-        "name":"Mao",
-        "url":"https://titan.mgtv.com.kunlanys.com/m3u8.php?url="
     },
     {
         "name":"明日",
