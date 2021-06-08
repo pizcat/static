@@ -1,0 +1,1 @@
+$(function(){$.ajax({type:"get",url:"https://www.xiaokesoso.com/api/coupon/random",async:!0,dataType:"jsonp",jsonp:"callback",success:function(data){var html;data&&(html=data.name,html='好物推荐：<a href="'+data.url+'" target="_blank" rel="noreferrer nofollow">'+html+"</a>",$("#couponHandler").empty().append(html))},error:function(data){}})});
