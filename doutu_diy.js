@@ -1441,10 +1441,10 @@ window.onload = function () {
     				+"<div style='line-height: 18px;margin-bottom:5px;'>4、当素材不满足需求时，可点击自定义素材，使用自己本地图片。</div>"
     				+"<div><b>关于素材:</b></div>"
     				+"<div style='line-height: 18px;margin-bottom:5px;'>1、本站所使用的图片素材全部来自于网络，如有侵权，请邮件告知。</div>"
-    				+"<div style='line-height: 18px;margin-bottom:5px;'>2、因为人力有限，DIY素材总不能尽善尽美，所以希望大家能积极投稿，让我们共同为脑洞DIY出一份力<span style='color:red; font-style:italic;'>(投稿素材一经采纳，我们将送上搜搜GIF会员1年)</span>。</div>"
+    				+"<div style='line-height: 18px;margin-bottom:5px;'>2、因为人力有限，DIY素材总不能尽善尽美，所以希望大家能积极投稿，让我们共同为脑洞DIY出一份力。</div>"
     				+"<div style='line-height: 18px;margin-bottom:5px;'>注：投稿时请说明来意，素材请以附件的形式发送到我们的官方邮箱。</div>"
     				+"<div><b>联系我们:</b></div>"
-    				+"<div>官方邮箱:<span style='color:red; font-style:italic;'>admin@sosofig.com</span></div>"
+    				+"<div>官方邮箱:<span style='color:red; font-style:italic;'>1956166592@qq.com</span></div>"
     			+"</div>"
     			+"</div>";
 			$.dialog({
