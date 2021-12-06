@@ -1,4 +1,8 @@
 $(function(){
+	if(window.location.href.indexOf("tampermonkey/doc")!=-1){
+		return;
+	}
+	
 	$.ajax({
 		type:"GET", 
 		url:"https://eb.xcj.pub/ebusiness/api/goods_ad/show", 
