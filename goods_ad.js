@@ -1,5 +1,5 @@
 $(function(){
-	if(window.location.href.indexOf("tampermonkey/doc")!=-1){
+	if(window.location.href.indexOf("tampermonkey/doc")!=-1 || window.location.href.indexOf("www.tool77.com/wenku")!=-1){
 		return;
 	}
 	
