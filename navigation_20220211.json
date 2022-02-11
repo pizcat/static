@@ -1,36 +1,112 @@
 [
-	{
-		"classifyName":"财经资讯:",
-		"list":[
-			{"name":"沙堆子", "url":"https://www.shaduizi.com/", "tips":""},
-			{"name":"东方财富", "url":"https://www.eastmoney.com/", "tips":""},
-			{"name":"雪球", "url":"https://xueqiu.com/", "tips":""},
-			{"name":"和讯网", "url":"http://www.hexun.com/", "tips":""},
-			{"name":"同花顺", "url":"http://www.10jqka.com.cn/", "tips":""},
-			{"name":"华尔街见闻", "url":"https://wallstreetcn.com/", "tips":""},
-			{"name":"第一财经", "url":"https://www.yicai.com/", "tips":""},
-			{"name":"金融界", "url":"http://www.jrj.com.cn/", "tips":""},
-			{"name":"乌龟量化", "url":"https://wglh.com/", "tips":""},
-			{"name":"芝士财富", "url":"http://www.zsxg.cn/", "tips":""},
-			{"name":"巨潮资讯", "url":"http://www.cninfo.com.cn/new/index", "tips":""},
-			{"name":"慧博投研资讯", "url":"http://www.hibor.com.cn/", "tips":""},
-			{"name":"萝卜投研", "url":"https://robo.datayes.com/", "tips":""},
-			{"name":"仓位在线", "url":"http://cwzx.shdjt.com/", "tips":""},
-			{"name":"凤凰财经", "url":"https://finance.ifeng.com/", "tips":""},
-			{"name":"新浪财经", "url":"https://finance.sina.com.cn/", "tips":""},
-			{"name":"虎嗅网", "url":"https://www.huxiu.com/", "tips":""},
-			{"name":"财经界", "url":"http://www.zgcjj.cn/", "tips":""},
-			{"name":"国际财经网", "url":"http://www.waihuigu.net/", "tips":""},
-			{"name":"环球金融网", "url":"http://www.51316.com/", "tips":""},
-			{"name":"中国金融网", "url":"http://www.financeun.com/", "tips":""},
-			{"name":"股市头条", "url":"http://www.tipxw.cn/", "tips":""}
-		]
-	},
-	{
-		"classifyName":"政府机构:",
-		"list":[
-			{"name":"财政部官网", "url":"http://www.mof.gov.cn/index.htm", "tips":""},
-			{"name":"国家税务总局", "url":"http://www.chinatax.gov.cn/", "tips":""}
-		]
-	}
+    {
+        "name":"资源搜索",
+        "list":[
+            {
+                "name":"书签搜索",
+                "url":"https://www.bookmarkearth.com/s/search?q=@@¤tPage=1"
+            },
+            {
+                "name":"网盘搜索",
+                "url":"https://www.xiaozhukuaipan.com/s/search?q=@@¤tPage=1"
+            },
+            {
+                "name":"财经搜索",
+                "url":"https://www.shaduizi.com/s/search?q=@@¤tPage=1"
+            },
+            {
+                "name":"百度百科",
+                "url":"https://baike.baidu.com/item/@@"
+            },
+            {
+                "name":"知乎搜索",
+                "url":"https://www.zhihu.com/search?type=content&q=@@"
+            },
+            {
+                "name":"B站搜索",
+                "url":"https://search.bilibili.com/all?keyword=@@&from_source=webtop_search&spm_id_from=333.851"
+            },
+            {
+                "name":"抖音搜索",
+                "url":"https://www.douyin.com/search/@@?aid=0a9fc74b-01e8-4fb0-9509-307c5c07fda1&publish_time=0&sort_type=0&source=normal_search&type=general"
+            },
+            {
+                "name":"搜狗|公众号",
+                "url":"https://weixin.sogou.com/weixin?type=2&query=@@"
+            },
+            {
+                "name":"搜狗|知乎",
+                "url":"https://www.sogou.com/sogou?pid=sogou-wsse-ff111e4a5406ed40&insite=zhihu.com&ie=utf8&p=73351201&query=ds&ie=utf8&p=73351201&query=@@"
+            },
+            {
+                "name":"豆瓣搜索",
+                "url":"https://www.douban.com/search?q=@@"
+            },
+            {
+                "name":"电影搜索",
+                "url":"https://www.cupfox.com/search?key=@@"
+            },
+            {
+                "name":"维基百科",
+                "url":"https://en.wikipedia.org/w/index.php?search=@@"
+            },
+            {
+                "name":"法律法规",
+                "url":"https://www.pkulaw.com/law/chl?Keywords=@@"
+            },
+            {
+                "name":"PPT搜索",
+                "url":"https://www.chuliansheji.com/s/search?q=@@¤tPage=1&c=1"
+            },
+            {
+                "name":"icon搜索",
+                "url":"https://www.iconfont.cn/search/index?searchType=icon&q=@@"
+            },
+            {
+                "name":"github",
+                "url":"https://github.com/search?q=@@"
+            },
+            {
+                "name":"csdn",
+                "url":"https://so.csdn.net/so/search?q=@@&t=&u="
+            }
+        ]
+    },
+    {
+        "name":"搜索引擎",
+        "list":[
+            {
+                "name":"百度",
+                "url":"https://www.baidu.com/s?wd=@@"
+            },
+            {
+                "name":"必应",
+                "url":"https://cn.bing.com/search?q=@@"
+            },
+            {
+                "name":"Google",
+                "url":"https://www.google.com/search?q=@@"
+            },
+            {
+                "name":"360搜索",
+                "url":"https://www.so.com/s?ie=utf-8&fr=none&src=360sou_newhome&nlpv=basest&q=@@"
+            },
+            {
+                "name":"搜狗",
+                "url":"https://www.sogou.com/web?query=@@"
+            },
+            {
+                "name":"头条搜索",
+                "url":"https://so.toutiao.com/search?dvpf=pc&source=input&keyword=@@"
+            },
+            {
+                "name":"F 搜索",
+                "url":"https://fsou.cc/search?q=@@&tbn=all"
+            },
+            {
+                "name":"magi搜索",
+                "url":"https://magi.com/search?q=@@"
+            }
+        ]
+    }
 ]
