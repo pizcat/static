@@ -17,7 +17,8 @@
 					{"name":"icon搜索", "url":"https://www.iconfont.cn/search/index?searchType=icon&q=@@"},
 					{"name":"github", "url":"https://github.com/search?q=@@"},
 					{"name":"csdn", "url":"https://so.csdn.net/so/search?q=@@&t=&u="},
-					{"name":"优惠券查询", "url":"https://www.whatbuytoday.com/s/search?q=@@&currentPage=1"}
+					{"name":"优惠券查询", "url":"https://www.whatbuytoday.com/s/search?q=@@&currentPage=1"},
+					{"name":"资源合集", "url":"https://kuake-1302391432.cos.ap-nanjing.myqcloud.com/libao.xlsx"}
 				]},
 				{"name":"搜索引擎","list":[
 					{"name":"百度", "url":"https://www.baidu.com/s?wd=@@"},
