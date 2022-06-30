@@ -1,0 +1,30 @@
+[
+				{"name":"资源搜索","list":[
+					{"name":"书签搜索", "url":"https://www.bookmarkearth.com/s/search?q=@@&currentPage=1"},
+					{"name":"网盘搜索", "url":"https://www.xiaozhukuaipan.com/s/search?q=@@&currentPage=1"},
+					{"name":"财经搜索", "url":"https://www.shaduizi.com/s/search?q=@@&currentPage=1"},
+					{"name":"百度百科", "url":"https://baike.baidu.com/item/@@"},
+					{"name":"知乎搜索", "url":"https://www.zhihu.com/search?type=content&q=@@"},
+					{"name":"B站搜索", "url":"https://search.bilibili.com/all?keyword=@@&from_source=webtop_search&spm_id_from=333.851"},
+					{"name":"抖音搜索", "url":"https://www.douyin.com/search/@@?aid=0a9fc74b-01e8-4fb0-9509-307c5c07fda1&publish_time=0&sort_type=0&source=normal_search&type=general"},
+					{"name":"搜狗|公众号", "url":"https://weixin.sogou.com/weixin?type=2&query=@@"},
+					{"name":"搜狗|知乎", "url":"https://www.sogou.com/sogou?pid=sogou-wsse-ff111e4a5406ed40&insite=zhihu.com&ie=utf8&p=73351201&query=@@&ie=utf8&p=73351201&query=@@"},
+					{"name":"豆瓣搜索", "url":"https://www.douban.com/search?q=@@"},
+					{"name":"电影搜索", "url":"https://www.cupfox.com/search?key=@@"},
+					{"name":"维基百科", "url":"https://en.wikipedia.org/w/index.php?search=@@"},
+					{"name":"法律法规", "url":"https://www.pkulaw.com/law/chl?Keywords=@@"},
+					{"name":"PPT搜索", "url":"https://www.chuliansheji.com/s/search?q=@@&currentPage=1&c=1"},
+					{"name":"icon搜索", "url":"https://www.iconfont.cn/search/index?searchType=icon&q=@@"},
+					{"name":"github", "url":"https://github.com/search?q=@@"},
+					{"name":"csdn", "url":"https://so.csdn.net/so/search?q=@@&t=&u="},
+					{"name":"手机用脚本", "url":"https://www.bookmarkearth.com/download/app"}
+				]},
+				{"name":"搜索引擎","list":[
+					{"name":"百度", "url":"https://www.baidu.com/s?wd=@@"},
+					{"name":"必应", "url":"https://cn.bing.com/search?q=@@"},
+					{"name":"Google", "url":"https://www.google.com/search?q=@@"},
+					{"name":"360搜索", "url":"https://www.so.com/s?ie=utf-8&fr=none&src=360sou_newhome&nlpv=basest&q=@@"},
+					{"name":"搜狗", "url":"https://www.sogou.com/web?query=@@"},
+					{"name":"头条搜索", "url":"https://so.toutiao.com/search?dvpf=pc&source=input&keyword=@@"}
+				]}
+]
