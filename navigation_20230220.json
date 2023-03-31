@@ -18,7 +18,7 @@
 		{"name":"github", "url":"https://github.com/search?q=@@"},
 		{"name":"csdn", "url":"https://so.csdn.net/so/search?q=@@&t=&u="},
 		{"name":"手机用油猴", "url":"https://blog.csdn.net/haoning7788/article/details/125344294"},
-		{"name":"chatGPT中文", "url":"https://www.ichat-gpt.cn/"}
+		{"name":"chatGPT中文", "url":"http://whatbuytoday.com/re/chat"}
 	]},
 	{"name":"搜索引擎","list":[
 		{"name":"百度", "url":"https://www.baidu.com/s?wd=@@"},
