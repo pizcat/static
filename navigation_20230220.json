@@ -13,7 +13,7 @@
 		{"name":"电影搜索", "url":"https://www.cupfox.com/search?key=@@"},
 		{"name":"维基百科", "url":"https://en.wikipedia.org/w/index.php?search=@@"},
 		{"name":"法律法规", "url":"https://www.pkulaw.com/law/chl?Keywords=@@"},
-		{"name":"PPT搜索", "url":"https://www.chuliansheji.com/s/search?q=@@&currentPage=1&c=1"},
+		{"name":"聊聊学-AI", "url":"https://www.chatchatstudy.cn/"},
 		{"name":"icon搜索", "url":"https://www.iconfont.cn/search/index?searchType=icon&q=@@"},
 		{"name":"github", "url":"https://github.com/search?q=@@"},
 		{"name":"csdn", "url":"https://so.csdn.net/so/search?q=@@&t=&u="},
